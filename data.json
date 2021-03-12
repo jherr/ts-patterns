@@ -1,0 +1,12 @@
+[
+  {
+    "id": "Meanosaur",
+    "attack": 100,
+    "defense": 20
+  },
+  {
+    "id": "Toughosaur",
+    "attack": 20,
+    "defense": 100
+  }
+]
